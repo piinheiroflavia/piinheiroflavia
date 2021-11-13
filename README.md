@@ -2,7 +2,7 @@
 <h3> Sobre mim  </h3>
 <ul>
   <li>Estou estudando HTML5 e CSS3;
-  <li> Aspirante a técnologia, por este motivo estou sempre estudando para evoluir e começar minha carreia;
+  <li> Aspirante a técnologia, por este motivo estou sempre estudando para evoluir e começar minha carreira;
 </ul>
 <hr>
   <h3>Minhas Skills</h3>
