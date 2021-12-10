@@ -1,7 +1,7 @@
 <h1>Oii Eu sou a Flavia Pinheiro</h1>
 <h3> Sobre mim  </h3>
 <ul>
-  <li>Estou estudando HTML5 e CSS3;
+  <li>Estou estudando Javascript;
   <li> Aspirante a técnologia, por este motivo estou sempre estudando para evoluir e começar minha carreira;
 </ul>
 <hr>
