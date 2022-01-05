@@ -2,7 +2,7 @@
 <h3> Sobre mim  </h3>
 <ul>
   <li>Estou estudando Javascript;
-  <li> Aspirante a técnologia, por este motivo estou sempre estudando para evoluir e começar minha carreira;
+  <li> Aspirante a tecnologia, por este motivo estou sempre estudando para evoluir e começar minha carreira;
 </ul>
 <hr>
   <h3>Minhas Skills</h3>
@@ -19,8 +19,5 @@
 <div align = "center"> 
 <a href="https://www.instagram.com/piinheiroflavia/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-<a href="https://www.linkedin.com/in/ana-flavia-g-pinheiro-79932521a/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/mateusaraujobarros/">
 </a>
 </div>
