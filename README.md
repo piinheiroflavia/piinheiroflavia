@@ -1,7 +1,7 @@
 <h1>Oii Eu sou a Flavia Pinheiro</h1>
 <h2> Sobre mim </h2>
 <ul>
-  <li>Atualmente estou estudando Python;
+  <li>Atualmente estou estudando React;
   <li> Aspirante a tecnologia, por este motivo estou sempre estudando para evoluir e entregar o melhor resultado possível em meus trabalhos e projetos;
 </ul>
 
@@ -15,7 +15,7 @@
   
 <div align = "center">
   <a herf = "https://github.com/piinheiroflavia">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=piinheiroflavia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=piinheiroflavia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piinheiroflavia&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
