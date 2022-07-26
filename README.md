@@ -27,10 +27,10 @@
 <a href="https://www.instagram.com/piinheiroflavia/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
-<a href="mailto:flavia.p_17@hotmail.com" target="_blank">
+<a href="https://www.linkedin.com/in/flavia-pinheiro-79932521a/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="https://www.instagram.com/piinheiroflavia/" target="_blank">
+<a href="mailto:flavia.p_17@hotmail.com" target="_blank" target="_blank">
     <img src="https://img.shields.io/badge/-email-%23E4405F?style=for-the-badge&logo=email&logoColor=white">
 </a>
 </div>
