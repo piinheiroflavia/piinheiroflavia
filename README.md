@@ -1,7 +1,6 @@
 <h1>Oii Eu sou a Flavia Pinheiro</h1>
 <h2> Sobre Mim </h2>
 <ul>
-  <li>Atualmente estou estudando React;
   <li> Aspirante a tecnologia, por este motivo estou sempre estudando para evoluir e entregar o melhor resultado possível em meus trabalhos e projetos;
 </ul>
 
