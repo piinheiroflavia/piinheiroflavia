@@ -43,7 +43,7 @@ Projetos em destaque: [CPaaS Web](https://modavo.com.br/), [Telecall](https://te
 <br/>
 <br/>
 
-Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/flavia-pinheiro-79932521a/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
+Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/piinheiroflavia/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
 
    
 <h2>Minhas Skills</h2>
