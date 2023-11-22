@@ -27,7 +27,7 @@
    <img align="center" alt="Flavia-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
    <img align="center" alt="Flavia-wordpress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">
   
-<br><br>
+<br>
 <h2> Experiência de trabalho</h2>
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
