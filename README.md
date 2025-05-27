@@ -7,10 +7,6 @@
 </p>
 
 <p align="left">
-  🌱 Atualmente estou aprofundando meu conhecimento em React e Node.js;
-</p>
-
-<p align="left">
   🌱 Entre em contato comigo através do e-mail: flavia.p_17@hotmail.com.
 </p>
 
@@ -32,10 +28,14 @@
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://scontent-gru2-2.xx.fbcdn.net/v/t39.30808-6/311572978_791074635669867_6005158648507829339_n.png?_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=kqmZpAD3lG0AX__5bb_&_nc_ht=scontent-gru2-2.xx&oh=00_AfCCqpEFDAzbN_q3AZp7HPZvsMBuPhvlVKwDOEXo4cb2lA&oe=65624B6D"/>](https://telecall.com/)
-
+**Desenvolvedora Júnior ** \
+[**Fu2re**]() • Full-time  •  Atual\
+Linguagens & Tecnologias:  `JavaScript`, `Python`, `C#`,`SQL Server` \
+Projetos em destaque: [Portal Calculo](Equatorial) e (Light)
+<br/>
+<br/>
 **Assistente de desenvolvimento ** \
-[**Telecall**](https://telecall.com/) • Full-time \
+[**Telecall**](https://telecall.com/) • Full-time • 2022-2024 \
 Linguagens & Tecnologias:  `JavaScript`, `SQL Server`,`C#`, \
 Projetos em destaque: [CPaaS Web](https://modavo.com.br/), [Telecall](https://telecall.com/) 
 <br/>
@@ -46,12 +46,12 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/piinheiroflavia
    
 <h2>Minhas Skills</h2>
 <ul>
-  <li>🚀 Linguagens: JavaScript e C#;</li>
+  <li>🚀 Linguagens: JavaScript, Python e C#;</li>
   <li>🚀 Frameworks: React, Node, Bootstrap, ASP.NET MVC;</li>
   <li>🚀 Bancos de Dados: SQL Server e MySQL;</li>
   <li>🚀 Metodologias Ágeis: Scrum e PMBOK;</li>
   <li>🚀 Conhecimento em UX/UI;</li>
-  <li>🚀 Ferramentas: Figma, Git e Wordpress.</li>
+  <li>🚀 Ferramentas: Figma, Azure Devops, Git e Wordpress.</li>
 </ul>
 
 <hr> 
