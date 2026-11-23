@@ -1,76 +1,47 @@
-<h1>Olá sou a Flavia Pinheiro</h1>
-<h2> Sobre Mim </h2>
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="350px" max-width="350px" width="350px" align="right">
+<img align="right" width="250" alt="Ilustração de um computador" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
 
-<p align="left">
-  🌱 Aspirante a tecnologia, por este motivo estou sempre estudando para evoluir e entregar o melhor resultado possível em meus trabalhos e projetos;
-</p>
+# Oi, eu sou a Flavia 👋
 
-<p align="left">
-  🌱 Entre em contato comigo através do e-mail: flavia.p_17@hotmail.com.
-</p>
+<img alt="Desenvolvedora Full Stack" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=57AB5A&vCenter=true&width=520&lines=Desenvolvedora+Full+Stack;.NET+%2B+React;Clean+Architecture;Testes+com+xUnit+e+Vitest;Aberta+a+vagas+remotas">
 
-<h2>Minhas Skills</h2>
- <p align = "left" </p>
-   <img align="center" alt="Flavia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-   <img align="center" alt="Flavia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="flavia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" alt="Flavia-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-   <img align="center" alt="Flavia-nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
-   <img align="center" alt="Flavia-dotnet" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg">
-   <img align="center" alt="Flavia-csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-line.svg">
-   <img align="center" alt="Flavia-jquery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
-   <img align="center" alt="Flavia-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-   <img align="center" alt="Flavia-wordpress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">
-  
-<br>
-<h2> Experiência de trabalho</h2>
+![Local](https://img.shields.io/badge/Local-Rio_de_Janeiro-1f6feb)
+![Trabalho](https://img.shields.io/badge/Trabalho-Remoto_UTC--3-1f6feb)
+![Status](https://img.shields.io/badge/Status-Aberta_a_oportunidades-2da44e)
 
-Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+![Back-end](https://img.shields.io/badge/Back--end-C%23_%7C_.NET_%7C_EF_Core-512bd4)
+![Front-end](https://img.shields.io/badge/Front--end-React_%7C_TypeScript-149eca)
+![Testes](https://img.shields.io/badge/Testes-xUnit_%7C_Vitest-2da44e)
+![Cloud](https://img.shields.io/badge/Cloud-Azure_%7C_Docker-0078d4)
 
-**Desenvolvedora Júnior ** \
-[**Fu2re**]() • Full-time  •  Atual\
-Linguagens & Tecnologias:  `JavaScript`, `Python`, `C#`,`SQL Server` \
-Projetos em destaque: [Portal Calculo](Equatorial) e (Light)
-<br/>
-<br/>
-**Assistente de desenvolvimento ** \
-[**Telecall**](https://telecall.com/) • Full-time • 2022-2024 \
-Linguagens & Tecnologias:  `JavaScript`, `SQL Server`,`C#`, \
-Projetos em destaque: [CPaaS Web](https://modavo.com.br/), [Telecall](https://telecall.com/) 
-<br/>
-<br/>
+<br clear="right">
 
-Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/piinheiroflavia/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
+## 🐍 Minha cobra come as contribuições
 
-   
-<h2>Minhas Skills</h2>
-<ul>
-  <li>🚀 Linguagens: JavaScript, Python e C#;</li>
-  <li>🚀 Frameworks: React, Node, Bootstrap, ASP.NET MVC;</li>
-  <li>🚀 Bancos de Dados: SQL Server e MySQL;</li>
-  <li>🚀 Metodologias Ágeis: Scrum e PMBOK;</li>
-  <li>🚀 Conhecimento em UX/UI;</li>
-  <li>🚀 Ferramentas: Figma, Azure Devops, Git e Wordpress.</li>
-</ul>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/piinheiroflavia/piinheiroflavia/output/github-contribution-grid-snake-dark.svg">
+  <img alt="Cobra comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/piinheiroflavia/piinheiroflavia/output/github-contribution-grid-snake.svg">
+</picture>
 
-<hr> 
-<div align = "center">
-  <a herf = "https://github.com/piinheiroflavia">
-   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=piinheiroflavia&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piinheiroflavia&layout=compact&langs_count=7&theme=radical"/>
+## 📜 Minha carreira, em git log
+
+```text
+a7f3c21 (HEAD -> main) feat: desenvolvedora Full Stack Júnior @ Fu2re · 2025
+9d02be4 feat: trainee Full Stack, APIs e pipelines Azure DevOps · 2024
+51c8a90 feat: analista de sistemas @ Telecall, SQL Server e e-commerce CPaaS · 2023
+3be71d8 init: estágio em sistemas, primeiros commits · 2022
+```
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="170" alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=piinheiroflavia&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
+  <img height="170" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piinheiroflavia&layout=compact&langs_count=7&theme=radical">
 </div>
-  
-<hr>  
-  
-<div align = "center"> 
-<a href="https://www.instagram.com/piinheiroflavia/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-<a href="https://www.linkedin.com/in/flavia-pinheiro-79932521a/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="mailto:flavia.p_17@hotmail.com" target="_blank" target="_blank">
-    <img src="https://img.shields.io/badge/-email-%23E4405F?style=for-the-badge&logo=email&logoColor=white">
-</a>
+
+<hr>
+
+<div align="center">
+  <a href="https://www.instagram.com/piinheiroflavia/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/piinheiroflavia/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:flavia.p_17@hotmail.com"><img alt="E-mail" src="https://img.shields.io/badge/-Email-%23E4405F?style=for-the-badge&logo=microsoftoutlook&logoColor=white"></a>
 </div>
