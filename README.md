@@ -1,6 +1,6 @@
 <img align="right" width="250" alt="Ilustração de um computador" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
 
-# Oi, eu sou a Flavia 👋
+<img alt="Oi, eu sou a Flavia" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&color=58A6FF&vCenter=true&repeat=false&width=520&height=55&lines=Oi,+eu+sou+a+Flavia">
 
 <img alt="Desenvolvedora Full Stack" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=57AB5A&vCenter=true&width=520&lines=Desenvolvedora+Full+Stack;.NET+%2B+React;Clean+Architecture;Testes+com+xUnit+e+Vitest;Aberta+a+vagas+remotas">
 
@@ -41,7 +41,6 @@ a7f3c21 (HEAD -> main) feat: desenvolvedora Full Stack Júnior @ Fu2re · 2025
 <hr>
 
 <div align="center">
-  <a href="https://www.instagram.com/piinheiroflavia/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/piinheiroflavia/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:flavia.p_17@hotmail.com"><img alt="E-mail" src="https://img.shields.io/badge/-Email-%23E4405F?style=for-the-badge&logo=microsoftoutlook&logoColor=white"></a>
 </div>
